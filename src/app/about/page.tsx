@@ -4,7 +4,7 @@ const AboutPage: React.FC = () => {
   // Your component code here
   return (
     <div>
-      <h1>About Page</h1>
+      <h1>About</h1>
     </div>
   );
 };
